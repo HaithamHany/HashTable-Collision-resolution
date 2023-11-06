@@ -24,7 +24,7 @@ public class DoubleHashingHashtable
     }
 
     private int hashFunction2(int key) {
-        return 7 - (key % 7);
+        return (size - 1) - (key % (size - 1));
     }
 
     // Utility method to print the state of the hash table
