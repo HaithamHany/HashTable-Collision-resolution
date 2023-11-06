@@ -24,4 +24,4 @@ A hash table is an efficient data structure for storing and retrieving values wi
 
 ## Usage
 
-This implementation can serve as a foundation for understanding and experimenting with different collision resolution strategies in hash tables. You can integrate these structures into your own Java applications where hash tables are required.
+This implementation can serve as a foundation for understanding and experimenting with different collision resolution strategies in hash tables.
